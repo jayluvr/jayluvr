@@ -1,0 +1,5 @@
+- 👋 yo, I’m @jayluvr
+- 👀 I’m interested in discord.py
+- 🌱 I’m currently learning python
+- 💞️ i'm in a relationship
+- 📫 https://discord.gg/eJy2t28KcS
